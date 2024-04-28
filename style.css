@@ -31,12 +31,12 @@ body {
 
 .intro h1 {
   padding: 60px 0;
-  font-size: 45px;
+  font-size: 35px;
   text-align: center;
 }
 
 .intro p {
-  font-size: 23px;
+  font-size: 18px;
   padding-bottom: 55px;
 }
 
@@ -47,7 +47,7 @@ body {
 }
 
 .input h3,.result h3 {
-  font-size: 34px;
+  font-size: 26px;
 }
 
 .field {
@@ -61,7 +61,7 @@ body {
 }
 .field input {
   border: 0;
-  font-size: 20px;
+  font-size: 18px;
   width: 275px;
   background-color: rgb(255, 242, 233);
 }
@@ -72,12 +72,12 @@ body {
   background-color: inherit;
 }
 .field button span {
-  font-size: 30px;
+  font-size: 24px;
 }
 
 .info {
   padding-bottom: 5px;
-  font-size: 23px;
+  font-size: 18px;
 }
 
 .block {
@@ -93,12 +93,12 @@ body {
 }
 
 .result h4 {
-  font-size: 34px;
+  font-size: 26px;
   padding-top: 10px;
 }
 
 #word {
-  font-size: 34px;
+  font-size: 26px;
 }
 
 
@@ -111,6 +111,5 @@ body {
   } 
   .nav nav {
     color: black;
-
   }
 }
